@@ -1,0 +1,2 @@
+Prog - Analog board is an attempt to make a programmable ciruit synthesizer to synthesize analog circuits. Just like FPGAs were digital circuits are synthesized with Hardware synthesis language like VHDL, veriLOG.
+This project includes Hardware & Firmware development of 'Prog - Analog board'. Firmware was developed using 'AVR C'.
